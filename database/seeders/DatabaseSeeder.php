@@ -9,7 +9,7 @@ class DatabaseSeeder extends Seeder
     {
         $this->call([
             RolesAndPermissionsSeeder::class,
-            RoomTypeSeeder::class,
+            RoomtypeSeeder::class,
             RoomSeeder::class,
             TestDataSeeder::class,
         ]);
