@@ -210,6 +210,7 @@
                 Comptes de demonstration si vos seeders sont charges :
                 <br>Admin : <strong>admin@hotel.com</strong> / <strong>password123</strong>
                 <br>Reception : <strong>reception@hotel.com</strong> / <strong>password123</strong>
+                <br>RH : <strong>rh@hotel.com</strong> / <strong>password123</strong>
             </div>
         </section>
     </div>
