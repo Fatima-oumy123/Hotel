@@ -207,7 +207,7 @@
             </div>
 
             <div class="demo">
-                Comptes de demonstration si vos seeders sont charges :
+                Comptes de démonstration :
                 <br>Admin : <strong>admin@hotel.com</strong> / <strong>password123</strong>
                 <br>Reception : <strong>reception@hotel.com</strong> / <strong>password123</strong>
                 <br>RH : <strong>rh@hotel.com</strong> / <strong>password123</strong>
