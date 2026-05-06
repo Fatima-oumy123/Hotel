@@ -23,7 +23,7 @@ return new class extends Migration {
             $table->date('check_out');
             $table->time('actual_check_in')->nullable();
             $table->time('actual_check_out')->nullable();
-            $table->integer('nights')->storedAs('DATEDIFF(check_out, check_in)');
+            $table->integer('nights')->default(0); // Calculé via PHP, pas SQL
             // Tarification
             $table->decimal('price_per_night', 10, 2);
             $table->decimal('total_amount', 10, 2);
